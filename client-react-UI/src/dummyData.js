@@ -1,52 +1,52 @@
 export const Users = [
   {
     id:1,
-    profilePicture: "profile pics/1.jpg",
+    profilePicture: "profile-pics/1.jpg",
     username: "Rohit",
   },
   {
     id:2,
-    profilePicture: "profile pics/2.jpg",
+    profilePicture: "profile-pics/2.jpg",
     username: "Sonika",
   },
   {
     id:3,
-    profilePicture: "profile pics/3.jpg",
+    profilePicture: "profile-pics/3.jpg",
     username: "Samee",
   },
   {
     id:4,
-    profilePicture: "profile pics/4.jpg",
+    profilePicture: "profile-pics/4.jpg",
     username: "Vishnu",
   },
   {
     id:5,
-    profilePicture: "profile pics/5.jpg",
+    profilePicture: "profile-pics/5.jpg",
     username: "Vastav",
   },
   {
     id:6,
-    profilePicture: "profile pics/6.jpg",
+    profilePicture: "profile-pics/6.jpg",
     username: "Konda Lohit",
   },
   {
     id:7,
-    profilePicture: "profile pics/7.jpg",
+    profilePicture: "profile-pics/7.jpg",
     username: "Vinuthna",
   },
   {
     id:8,
-    profilePicture: "profile pics/8.jpg",
+    profilePicture: "profile-pics/8.jpg",
     username: "Satti",
   },
   {
     id:9,
-    profilePicture: "profile pics/9.jpg",
+    profilePicture: "profile-pics/9.jpg",
     username: "Jenny",
   },
   {
     id:10,
-    profilePicture: "profile pics/10.jpg",
+    profilePicture: "profile-pics/10.jpg",
     username: "Rama Krishna",
   },
 ];

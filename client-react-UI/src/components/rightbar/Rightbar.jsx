@@ -7,6 +7,7 @@ import { Link } from "react-router-dom";
 import { AuthContext } from "../../context/AuthContext";
 import { Add, Remove } from "@mui/icons-material";
 
+
 export default function Rightbar({user}) {
   // console.clear()
   // console.log(user)

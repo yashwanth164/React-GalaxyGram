@@ -5,6 +5,7 @@ export default function Online({user}) {
   return (
             <li className="rightbarFriend">
               <div className="rightbarProfileImgContainer">
+                {/* <img src={PF+user.profilePicture} alt="" className="rightbarProfileImg" /> */}
                 <img src={PF+user.profilePicture} alt="" className="rightbarProfileImg" />
                 <span className="rightbarOnline"> </span>
               </div>
